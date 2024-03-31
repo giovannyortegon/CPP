@@ -10,8 +10,10 @@ int main() {
     int altura {};
     int mayor {};
 
-    cout <<"Instacias a trabajar: ";
-    cin >> instancias;
+    do {
+        cout <<"Instacias a trabajar: ";
+        cin >> instancias;
+    } while(instancias < 2);
 
     Rectangulo * r = new Rectangulo[instancias];
 
@@ -50,5 +52,6 @@ int main() {
 
     cout <<"La instacia mayor cuenta con un Area: " <<mayor <<std::endl;
 
+    delete [] r;
     return (0);
 }
