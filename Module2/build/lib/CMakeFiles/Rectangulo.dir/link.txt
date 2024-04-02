@@ -1,0 +1,2 @@
+C:\mingw\bin\ar.exe qc libRectangulo.a CMakeFiles/Rectangulo.dir/Rectangulo.cpp.obj
+C:\mingw\bin\ranlib.exe libRectangulo.a

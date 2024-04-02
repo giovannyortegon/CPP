@@ -42,6 +42,7 @@ int main() {
         tmp = r[i].MayorArea(r[i + 1]);
 
         if (instancias == 2) {
+            mayor = tmp;
             break;
         }
 

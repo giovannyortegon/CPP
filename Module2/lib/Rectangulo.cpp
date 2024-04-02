@@ -1,4 +1,4 @@
-#include"Rectangulo.hpp"
+#include"inc/Rectangulo.hpp"
 
 void Rectangulo::setBase(int base) {
     this->base = base;

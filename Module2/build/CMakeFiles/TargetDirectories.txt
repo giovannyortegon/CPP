@@ -1,0 +1,8 @@
+C:/Users/giova/Documents/CPP/Module2/build/CMakeFiles/edit_cache.dir
+C:/Users/giova/Documents/CPP/Module2/build/CMakeFiles/rebuild_cache.dir
+C:/Users/giova/Documents/CPP/Module2/build/lib/CMakeFiles/Rectangulo.dir
+C:/Users/giova/Documents/CPP/Module2/build/lib/CMakeFiles/edit_cache.dir
+C:/Users/giova/Documents/CPP/Module2/build/lib/CMakeFiles/rebuild_cache.dir
+C:/Users/giova/Documents/CPP/Module2/build/src/CMakeFiles/main.dir
+C:/Users/giova/Documents/CPP/Module2/build/src/CMakeFiles/edit_cache.dir
+C:/Users/giova/Documents/CPP/Module2/build/src/CMakeFiles/rebuild_cache.dir

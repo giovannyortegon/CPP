@@ -1,0 +1,11 @@
+message("Ejecicio de Programacion Orientada a Objetos")
+cmake_minimum_required(VERSION 3.29.0)
+project(Rectangulo)
+
+set(BVULTURE "Subscribe")
+message("*** ROOT CMake ***")
+message("Variable: ${BVULTURE}")
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${PROJECT_SOURCE_DIR}/bin")
+include_directories(lib/inc)
+add_subdirectory(lib)
+add_subdirectory(src)
