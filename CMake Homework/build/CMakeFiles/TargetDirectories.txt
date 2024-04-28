@@ -1,0 +1,12 @@
+C:/Users/giova/Documents/CPP/CMake Homework/build/CMakeFiles/edit_cache.dir
+C:/Users/giova/Documents/CPP/CMake Homework/build/CMakeFiles/rebuild_cache.dir
+C:/Users/giova/Documents/CPP/CMake Homework/build/thirdparty/CMakeFiles/frogbook.dir
+C:/Users/giova/Documents/CPP/CMake Homework/build/thirdparty/CMakeFiles/frogger.dir
+C:/Users/giova/Documents/CPP/CMake Homework/build/thirdparty/CMakeFiles/edit_cache.dir
+C:/Users/giova/Documents/CPP/CMake Homework/build/thirdparty/CMakeFiles/rebuild_cache.dir
+C:/Users/giova/Documents/CPP/CMake Homework/build/library/CMakeFiles/math.dir
+C:/Users/giova/Documents/CPP/CMake Homework/build/library/CMakeFiles/edit_cache.dir
+C:/Users/giova/Documents/CPP/CMake Homework/build/library/CMakeFiles/rebuild_cache.dir
+C:/Users/giova/Documents/CPP/CMake Homework/build/source/CMakeFiles/main.dir
+C:/Users/giova/Documents/CPP/CMake Homework/build/source/CMakeFiles/edit_cache.dir
+C:/Users/giova/Documents/CPP/CMake Homework/build/source/CMakeFiles/rebuild_cache.dir

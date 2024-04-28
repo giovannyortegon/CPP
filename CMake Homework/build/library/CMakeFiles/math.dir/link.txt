@@ -1,0 +1,2 @@
+C:\mingw\bin\ar.exe qc libmath.a CMakeFiles/math.dir/add.cpp.obj CMakeFiles/math.dir/divide.cpp.obj CMakeFiles/math.dir/multiply.cpp.obj CMakeFiles/math.dir/subtract.cpp.obj
+C:\mingw\bin\ranlib.exe libmath.a
